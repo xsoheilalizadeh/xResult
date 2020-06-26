@@ -1,9 +1,9 @@
 
-### xResult 🚦
+### xResult (Prototype) 🚦
 
 What is xResult?
 
-It's represents APIs that helps to write functional codes in c#!
+It represents APIs that help to write functional codes in c#!
 
 ```c#
 public class User
