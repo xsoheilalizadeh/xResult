@@ -6,6 +6,8 @@
 It represents APIs that help to write functional codes in c#!
 
 ```c#
+using static xResult.Result;
+
 public class User
 {
     private User(string userName)
